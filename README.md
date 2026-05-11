@@ -25,7 +25,7 @@ Telegram bot for downloading videos from Instagram, YouTube, TikTok, Facebook, a
 ```bash
 cp .env.example .env
 pip install -r requirements.txt
-python main.py
+python run.py
 ```
 
 ## Stack
