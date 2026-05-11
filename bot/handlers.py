@@ -9,7 +9,7 @@ from aiogram.fsm.state import State, StatesGroup
 from loguru import logger
 from db.database import Database
 from userbot.client import DownloaderUserbot
-from utils import URLValidator
+from bot.utils import URLValidator
 from config import Config
 
 # Global processing queue and lock
